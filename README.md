@@ -1,3 +1,5 @@
+### DX_Steal-main
+
 Ox-Target steal easy use
 
 <div align="center">
@@ -10,7 +12,7 @@ Ox-Target steal easy use
 - `✅` **| [ESX](https://github.com/esx-framework/esx_core)**
 
 ### Suported Inventorys
-- `✅` **| [ox_target](https://github.com/overextended/ox_target)**
+- `✅` **| [Ox_target](https://github.com/overextended/ox_target)**
 
 
 
