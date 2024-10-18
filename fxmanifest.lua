@@ -1,10 +1,10 @@
-shared_script '@WaveShield/resource/waveshield.lua' --this line was automatically written by WaveShield
+shared_script '@es_extended/imports.lua'
 
 fx_version 'cerulean'
 game 'gta5'
 version '1.0.0'
-author 'wx / woox'
-description 'laces steal na target'
+author 'DX (Dejvex1)'
+description 'Target Steal'
 lua54 'yes'
 client_scripts {
     'client/*.lua',
