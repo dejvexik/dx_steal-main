@@ -1,4 +1,4 @@
-Ox-Target steal eesy use
+Ox-Target steal easy use
 
 <div align="center">
 
@@ -11,4 +11,6 @@ Ox-Target steal eesy use
 
 ### Suported Inventorys
 - `✅` **| [ox_target](https://github.com/overextended/ox_target)**
+
+
 
